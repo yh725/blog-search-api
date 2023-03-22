@@ -40,20 +40,18 @@ java -jar blog-h2-server.jar
 java -jar blog-api-server-1.0-SNAPSHOT.jar
 java -jar blog-batch-server-1.0-SNAPSHOT.jar
 ```
-
 ------------
-## 블로그 검색 API
-아래 URL로 API 명세서 확인 및 테스트 가능합니다.(swagger)
+### 아래 URL로 API 명세서 확인 및 테스트 가능합니다.(swagger)
 
 ```
 http://localhost:9080/swagger-ui/index.html#
 ```
-데이터 베이스 확인 (h2)
+### 데이터 베이스 확인 (h2)
 ```
 http://localhost:9085/h2-console
 jdbc:h2:tcp://localhost:9086/mem:db
 ```
-
+## 블로그 검색 API
 ### Request
 ```
 GET http://localhost:9080/blog/search/api
