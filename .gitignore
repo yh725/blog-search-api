@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/blog-api-server/build/
+/blog-api-server/out/
+/blog-api-server/out/production/classes/
+/blog-api-server/out/test/classes/
+/blog-batch-server/build/
+/blog-batch-server/out/
+/blog-batch-server/out/production/classes/
+/blog-core/build/
+/blog-core/out/
+/blog-core/out/production/classes/
+/blog-h2-server/build/
+/blog-h2-server/out/
+/blog-h2-server/out/production/classes/

@@ -1,0 +1,11 @@
+server:
+  port: 9080
+
+kakao:
+  url: https://dapi.kakao.com/v2/search/blog
+  key: 75b1b7f2419513246dfd022acbd3296e
+
+naver:
+  url: https://openapi.naver.com/v1/search/blog.json
+  id: bxmQhdmAdoknVEFheJpW
+  key: p3GTmdEVyx

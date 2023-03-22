@@ -1,0 +1,6 @@
+rootProject.name = 'blogsearchapi'
+include 'blog-api-server'
+include 'blog-batch-server'
+include 'blog-core'
+include 'blog-h2-server'
+
