@@ -51,6 +51,7 @@ http://localhost:9080/swagger-ui/index.html#
 http://localhost:9085/h2-console
 jdbc:h2:tcp://localhost:9086/mem:db
 ```
+------------
 ## 블로그 검색 API
 ### Request
 ```
